@@ -1,0 +1,6 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  labels:
+    name: davecore1
+  name: davecore1
